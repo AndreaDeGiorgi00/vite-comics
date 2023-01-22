@@ -1,0 +1,15 @@
+@mixin contenitore {
+    width: 75%;
+    margin: 0 auto;
+}
+
+@mixin display-flex-just-sp-bt {
+    display: flex;
+    justify-content: space-between;
+}
+
+@mixin display-flex-full-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
