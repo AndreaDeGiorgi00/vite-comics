@@ -46,5 +46,10 @@ export default {
     background-color: black;
     color: white;
     padding-left: 30px;
+
+}
+
+section {
+    background-color: black;
 }
 </style>
